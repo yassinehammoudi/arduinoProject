@@ -1,0 +1,266 @@
+[
+  {
+    "temperature": 25.5,
+    "humidity": 56.6,
+    "timestamp": "2025-09-04 17:45:16",
+    "alerts": [
+      "\u26a0 High Humidity: 56.6%"
+    ]
+  },
+  {
+    "temperature": 25.5,
+    "humidity": 56.5,
+    "timestamp": "2025-09-04 17:45:18",
+    "alerts": [
+      "\u26a0 High Humidity: 56.5%"
+    ]
+  },
+  {
+    "temperature": 25.5,
+    "humidity": 56.5,
+    "timestamp": "2025-09-04 17:45:21",
+    "alerts": [
+      "\u26a0 High Humidity: 56.5%"
+    ]
+  },
+  {
+    "temperature": 25.5,
+    "humidity": 56.3,
+    "timestamp": "2025-09-04 17:45:23",
+    "alerts": [
+      "\u26a0 High Humidity: 56.3%"
+    ]
+  },
+  {
+    "temperature": 25.5,
+    "humidity": 56.2,
+    "timestamp": "2025-09-04 17:45:25",
+    "alerts": [
+      "\u26a0 High Humidity: 56.2%"
+    ]
+  },
+  {
+    "temperature": 25.5,
+    "humidity": 56.2,
+    "timestamp": "2025-09-04 17:45:28",
+    "alerts": [
+      "\u26a0 High Humidity: 56.2%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.2,
+    "timestamp": "2025-09-04 17:45:30",
+    "alerts": [
+      "\u26a0 High Humidity: 56.2%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.2,
+    "timestamp": "2025-09-04 17:45:33",
+    "alerts": [
+      "\u26a0 High Humidity: 56.2%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.2,
+    "timestamp": "2025-09-04 17:45:35",
+    "alerts": [
+      "\u26a0 High Humidity: 56.2%"
+    ]
+  },
+  {
+    "temperature": 25.5,
+    "humidity": 56.1,
+    "timestamp": "2025-09-04 17:45:37",
+    "alerts": [
+      "\u26a0 High Humidity: 56.1%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.2,
+    "timestamp": "2025-09-04 17:45:40",
+    "alerts": [
+      "\u26a0 High Humidity: 56.2%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.2,
+    "timestamp": "2025-09-04 17:45:42",
+    "alerts": [
+      "\u26a0 High Humidity: 56.2%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.3,
+    "timestamp": "2025-09-04 17:45:44",
+    "alerts": [
+      "\u26a0 High Humidity: 56.3%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.3,
+    "timestamp": "2025-09-04 17:45:46",
+    "alerts": [
+      "\u26a0 High Humidity: 56.3%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.3,
+    "timestamp": "2025-09-04 17:45:49",
+    "alerts": [
+      "\u26a0 High Humidity: 56.3%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.2,
+    "timestamp": "2025-09-04 17:45:51",
+    "alerts": [
+      "\u26a0 High Humidity: 56.2%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.0,
+    "timestamp": "2025-09-04 17:45:53",
+    "alerts": [
+      "\u26a0 High Humidity: 56.0%"
+    ]
+  },
+  {
+    "temperature": 25.5,
+    "humidity": 55.8,
+    "timestamp": "2025-09-04 17:45:55",
+    "alerts": [
+      "\u26a0 High Humidity: 55.8%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 55.9,
+    "timestamp": "2025-09-04 17:45:58",
+    "alerts": [
+      "\u26a0 High Humidity: 55.9%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.0,
+    "timestamp": "2025-09-04 17:46:00",
+    "alerts": [
+      "\u26a0 High Humidity: 56.0%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.0,
+    "timestamp": "2025-09-04 17:46:02",
+    "alerts": [
+      "\u26a0 High Humidity: 56.0%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.2,
+    "timestamp": "2025-09-04 17:46:04",
+    "alerts": [
+      "\u26a0 High Humidity: 56.2%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.4,
+    "timestamp": "2025-09-04 17:46:07",
+    "alerts": [
+      "\u26a0 High Humidity: 56.4%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.5,
+    "timestamp": "2025-09-04 17:46:09",
+    "alerts": [
+      "\u26a0 High Humidity: 56.5%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.6,
+    "timestamp": "2025-09-04 17:46:11",
+    "alerts": [
+      "\u26a0 High Humidity: 56.6%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.6,
+    "timestamp": "2025-09-04 17:46:13",
+    "alerts": [
+      "\u26a0 High Humidity: 56.6%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.7,
+    "timestamp": "2025-09-04 17:46:16",
+    "alerts": [
+      "\u26a0 High Humidity: 56.7%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.6,
+    "timestamp": "2025-09-04 17:46:18",
+    "alerts": [
+      "\u26a0 High Humidity: 56.6%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.5,
+    "timestamp": "2025-09-04 17:46:20",
+    "alerts": [
+      "\u26a0 High Humidity: 56.5%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.5,
+    "timestamp": "2025-09-04 17:46:22",
+    "alerts": [
+      "\u26a0 High Humidity: 56.5%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.5,
+    "timestamp": "2025-09-04 17:46:25",
+    "alerts": [
+      "\u26a0 High Humidity: 56.5%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.5,
+    "timestamp": "2025-09-04 17:46:27",
+    "alerts": [
+      "\u26a0 High Humidity: 56.5%"
+    ]
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 56.5,
+    "timestamp": "2025-09-04 17:46:29",
+    "alerts": [
+      "\u26a0 High Humidity: 56.5%"
+    ]
+  }
+]

@@ -4,16 +4,16 @@ services:
   backend:
     build: ./backend
     container_name: flask-backend
+    ports:
+      - "5000:5000"
     networks:
       - appnet
 
-  nginx:
-    build: ./nginx
-    container_name: nginx-proxy
+  frontend:
+    build: ./frontend
+    container_name: frontend
     ports:
-      - "80:80"
-    depends_on:
-      - backend
+      - "8080:80"
     networks:
       - appnet
 

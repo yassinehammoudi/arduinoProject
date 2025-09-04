@@ -324,7 +324,7 @@ const chart = new Chart(ctx, {
 // Fetch and update chart
 async function updateChart() {
     try {
-        const res = await fetch('http://localhost:5000/dataset');
+        const res = await fetch('/api/dataset');
         const dataset = await res.json();
 
         const lastData = dataset.slice(-20);
@@ -342,7 +342,7 @@ async function updateChart() {
 //Fetch real data
 async function updateRealData() {
     try {
-        const res = await fetch('http://localhost:5000/data');
+        const res = await fetch('/api/data');
         const data = await res.json();
 
         document.getElementById('temperature').innerText = data.temperature;

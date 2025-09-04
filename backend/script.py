@@ -58,13 +58,13 @@ def ingest():
         return jsonify({"error": str(e)}), 500
 
 
-@app.route('/data')
+@app.route('/api/data')
 def get_data():
     """Return latest data with alerts"""
     return jsonify(latest_data)
 
 
-@app.route('/dataset')
+@app.route('/api/dataset')
 def get_dataset():
     with open(dataset_file, 'r') as f:
         dataset = json.load(f)

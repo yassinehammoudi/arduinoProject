@@ -342,7 +342,7 @@ async function updateChart() {
 //Fetch real data
 async function updateRealData() {
     try {
-        const res = await fetch('/api/data');
+        const res = await fetch('http://193.95.30.15:5000/data');
         const data = await res.json();
 
         document.getElementById('temperature').innerText = data.temperature;
